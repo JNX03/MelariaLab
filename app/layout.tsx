@@ -9,7 +9,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Malaria Rural Lab",
   description: "Upload and analyze microscope plate images for malaria detection",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
